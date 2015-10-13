@@ -1,0 +1,8 @@
+Sample that illustrates that passing in a session alias is no different than a user making a request with no session cookie present.
+
+To run it:
+
+[source,bash]
+----
+$ ./mvnw spring-boot:run
+----
